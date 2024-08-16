@@ -1,16 +1,7 @@
-# onboarding
+# showcaseview 
 
-A new Flutter project.
+showcaseview 패키지 사용 예제
 
-## Getting Started
+## 기능
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+앱을 처음 실행할때 그 앱의 사용법을 애니메이션 효과와 함께 도움말이 나오게 구현
