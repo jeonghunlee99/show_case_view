@@ -11,6 +11,6 @@
 
 ## 사용된 패키지 📦
 
-- `showcaseview/showcaseview.dart`: 앱의 주요 기능을 안내하는 쇼케이스를 제공.
+- [showcaseview](https://pub.dev/packages/showcaseview): 앱의 주요 기능을 안내하는 쇼케이스를 제공.
 
 
